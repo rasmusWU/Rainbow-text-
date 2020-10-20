@@ -1,0 +1,24 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "description": "Creates a colouful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasmusWU/Rainbow-text-.git"
+  },
+  "keywords": [
+    "console",
+    "rainbox",
+    "colours"
+  ],
+  "author": "RasmusWU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasmusWU/Rainbow-text-/issues"
+  },
+  "homepage": "https://github.com/rasmusWU/Rainbow-text-#readme"
+}
